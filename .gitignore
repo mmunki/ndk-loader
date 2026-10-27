@@ -1,0 +1,10 @@
+build/
+dist/
+*.class
+*.dex
+*.so
+*.o
+*.log
+.DS_Store
+.idea/
+*.iml
