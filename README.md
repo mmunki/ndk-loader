@@ -144,6 +144,8 @@ any other Android native library.
 
 ## Releases
 
+Releases: https://github.com/mmunki/ndk-loader/releases
+
 The release contains `ndk-loader.jar` and the source archive. The SHA-256 of
 every asset is in the release notes.
 
